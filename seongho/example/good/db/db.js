@@ -2,7 +2,7 @@ import oracledb from 'oracledb';
 
 import "../env/env.js";
 import { TypeChecker } from "../utils/index.js";
-import { DBStatusEnum } from "./db_status.js";
+import { DBStatusEnum } from "./db_status.js.js";
 
 /**
  * @author Jang Seongho
